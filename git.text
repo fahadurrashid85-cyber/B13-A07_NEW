@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "A07 assignment"
+git branch -M main
+git remote add origin https://github.com/fahadurrashid85-cyber/B13-A07_NEW.git
+git push -u origin main
